@@ -1,0 +1,21 @@
+{
+	"name": "laura_s_fav_theme-color-theme",
+	"displayName": "HB_Laura",
+	"publisher": "Valentin",
+	"description": "A custom theme for VS Code",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "laura_s_fav_theme",
+				"uiTheme": "vs-dark",
+				"path": "C:/Users/Utilisateur/Documents/Themes/laura-s-fav-theme-color-theme.json"
+
+				
+			}
+		]
+	}
+}

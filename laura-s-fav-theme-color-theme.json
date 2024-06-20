@@ -1,0 +1,71 @@
+{
+  "name": "laura_s_fav_theme",
+  "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "enumMember": {
+      "foreground": "#56b6c2"
+    },
+    "variable.constant": {
+      "foreground": "#d19a66"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#e5c07b"
+    }
+  },
+  "colors": {
+    "editor.background": "#952172",
+    "editor.foreground": "#d4d4d4",
+    "activityBar.background": "#333333",
+    "sideBar.background": "#252526",
+    "statusBar.background": "#007acc",
+    "statusBar.foreground": "#ffffff",
+    "titleBar.activeBackground": "#3c3c3c",
+    "titleBar.activeForeground": "#ffffff",
+    "editorCursor.foreground": "#aeafad",
+    "editorLineNumber.foreground": "#858585",
+    "editor.selectionBackground": "#264f78",
+    "editor.inactiveSelectionBackground": "#44786b6a",
+    "editor.wordHighlightBackground": "#575757b8",
+    "editor.findMatchHighlightBackground": "#ea5c0055",
+    "editor.lineHighlightBackground": "#333333",
+    "editorWhitespace.foreground": "#e3e4e229"
+  },
+  "tokenColors": [
+    {
+      "name": "unison punctuation",
+      "scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
+      "settings": {
+        "foreground": "#e06c75"
+      }
+    },
+    {
+      "name": "haskell variable generic-type",
+      "scope": "variable.other.generic-type.haskell",
+      "settings": {
+        "foreground": "#cb44f2"
+      }
+    },
+    {
+      "name": "haskell storage type",
+      "scope": "storage.type.haskell",
+      "settings": {
+        "foreground": "#d19a66"
+      }
+    },
+    {
+      "name": "support.variable.magic.python",
+      "scope": "support.variable.magic.python",
+      "settings": {
+        "foreground": "#e06c75"
+      }
+    },
+    {
+      "name": "punctuation.separator.parameters.python",
+      "scope": "punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python",
+      "settings": {
+        "foreground": "#d1ffe1"
+      }
+    }
+  ]
+}
