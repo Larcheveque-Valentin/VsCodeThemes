@@ -1,9 +1,9 @@
 {
 	"name": "laura-s-birthday",
-	"displayName": "HB_Laura!!",
+	"displayName": "HB_Laura!!!",
 	"publisher": "VL-id1999",
-	"description": "A custom theme for VS Code",
-	"version": "1.0.1",
+	"description": "Super cool VS Code theme",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
@@ -11,21 +11,29 @@
 		"type": "git",
 		"url": "https://github.com/Larcheveque-Valentin/VsCodeThemes"
 	},
-	
 	"keywords": [
 		"theme",
 		"dark theme",
 		"laura"
 	],
+	"contributes": {
+  "themes": [
+    {
+      "label": "HB_Laura!!",
+      "uiTheme": "vs-dark",
+      "path": "./themes/laura-s-fav-theme-color-theme.json"
+    }
+  ]
+	},
 	"dependencies": {
 		"vsce": "^2.15.0"
 	},
 	"__metadata": {
 		"isApplicationScoped": false,
-		"installedTimestamp": 1718916979762,
+		"installedTimestamp": 1718918041036,
 		"pinned": false,
 		"source": "gallery",
-		"id": "3d248944-c5f2-460c-9217-328cbb91dcde",
+		"id": "7fefacb9-fbab-47ca-ab0c-82cdcd2e8f2b",
 		"publisherId": "7c71b077-cbe2-445e-ad0b-c88fe648f0ba",
 		"publisherDisplayName": "VLPublisher",
 		"targetPlatform": "undefined",
