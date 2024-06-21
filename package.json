@@ -1,9 +1,9 @@
 {
 	"name": "laura-s-birthday",
-	"displayName": "HB_Laura!!!",
+	"displayName": "HB_Laura_:)",
 	"publisher": "VL-id1999",
 	"description": "Super cool VS Code theme",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
@@ -17,20 +17,20 @@
 		"laura"
 	],
 	"contributes": {
-  "themes": [
-    {
-      "label": "HB_Laura!!",
-      "uiTheme": "vs-dark",
-      "path": "./themes/laura-s-fav-theme-color-theme.json"
-    }
-  ]
+		"themes": [
+			{
+				"label": "HB_Laura!!",
+				"uiTheme": "vs-dark",
+				"path": "./laura-s-fav-theme-color-theme.json"
+			}
+		]
 	},
 	"dependencies": {
 		"vsce": "^2.15.0"
 	},
 	"__metadata": {
 		"isApplicationScoped": false,
-		"installedTimestamp": 1718918041036,
+		"installedTimestamp": 1718919654868,
 		"pinned": false,
 		"source": "gallery",
 		"id": "7fefacb9-fbab-47ca-ab0c-82cdcd2e8f2b",
